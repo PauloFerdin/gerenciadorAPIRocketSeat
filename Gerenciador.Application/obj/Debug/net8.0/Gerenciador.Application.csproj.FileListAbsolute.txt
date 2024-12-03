@@ -1,0 +1,15 @@
+C:\Users\pauli\source\repos\GerenciadorDeTarefas\Gerenciador.Application\bin\Debug\net8.0\Gerenciador.Application.deps.json
+C:\Users\pauli\source\repos\GerenciadorDeTarefas\Gerenciador.Application\bin\Debug\net8.0\Gerenciador.Application.dll
+C:\Users\pauli\source\repos\GerenciadorDeTarefas\Gerenciador.Application\bin\Debug\net8.0\Gerenciador.Application.pdb
+C:\Users\pauli\source\repos\GerenciadorDeTarefas\Gerenciador.Application\bin\Debug\net8.0\Gerenciador.Communication.dll
+C:\Users\pauli\source\repos\GerenciadorDeTarefas\Gerenciador.Application\bin\Debug\net8.0\Gerenciador.Communication.pdb
+C:\Users\pauli\source\repos\GerenciadorDeTarefas\Gerenciador.Application\obj\Debug\net8.0\Gerenciador.Application.csproj.AssemblyReference.cache
+C:\Users\pauli\source\repos\GerenciadorDeTarefas\Gerenciador.Application\obj\Debug\net8.0\Gerenciador.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\source\repos\GerenciadorDeTarefas\Gerenciador.Application\obj\Debug\net8.0\Gerenciador.Application.AssemblyInfoInputs.cache
+C:\Users\pauli\source\repos\GerenciadorDeTarefas\Gerenciador.Application\obj\Debug\net8.0\Gerenciador.Application.AssemblyInfo.cs
+C:\Users\pauli\source\repos\GerenciadorDeTarefas\Gerenciador.Application\obj\Debug\net8.0\Gerenciador.Application.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\GerenciadorDeTarefas\Gerenciador.Application\obj\Debug\net8.0\Gerencia.0E5F87C7.Up2Date
+C:\Users\pauli\source\repos\GerenciadorDeTarefas\Gerenciador.Application\obj\Debug\net8.0\Gerenciador.Application.dll
+C:\Users\pauli\source\repos\GerenciadorDeTarefas\Gerenciador.Application\obj\Debug\net8.0\refint\Gerenciador.Application.dll
+C:\Users\pauli\source\repos\GerenciadorDeTarefas\Gerenciador.Application\obj\Debug\net8.0\Gerenciador.Application.pdb
+C:\Users\pauli\source\repos\GerenciadorDeTarefas\Gerenciador.Application\obj\Debug\net8.0\ref\Gerenciador.Application.dll
